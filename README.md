@@ -39,6 +39,6 @@ This project can be used to visualize a random walk in two dimensions. When run,
 ## Acknowledgments
 Python's turtle module
 Random walk - Wikipedia
-Please replace placeholders like SyedHanifShah, Turtle Grapic, main.py, Syed Hanif Shah, hanifshah812@gmail.com, and https://github.com/SyedHanifShah/python_random_walk.git with the actual values.
+Please replace placeholders like SyedHanifShah, Turtle Grapic, main.py, Syed Hanif Shah, hanifshah812@gmail.com, and https://github.com/SyedHanifShah/snack_game_python.git with the actual values.
 
 This README file explains what the project is about, how to get a local copy up and running, how to use the project, and who to contact for more information. It also provides credit to the resources you used in your project github.com, pythonturtle.academy, codereview.stackexchange.com, github.com.
